@@ -1,8 +1,6 @@
 ### Let's start our journey! 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 
 [My projects](https://github.com/search?o=desc&q=language%3Anim+user%3Axflywind+user%3Aplanety&s=updated&type=Repositories)
