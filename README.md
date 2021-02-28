@@ -9,10 +9,6 @@
 
 System programming, server-side
 
-- 😄 Motto ...
-
-My Conquest is the Sea of Stars.
-
 - Buy me a coffee
 
 [Buy me a coffee](https://github.com/planety/prologue#donations)
