@@ -1,4 +1,4 @@
-### Let's start our journey! 👋
+### Let's start our journey!
 
 
 - Hire me
