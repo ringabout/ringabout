@@ -7,4 +7,4 @@
 
 #### Buy me a coffee
 
-[Buy me a coffee](https://github.com/planety/prologue#donations)
+I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://www.patreon.com/flywind) so I can continue my journey with Nim as long as possible.
