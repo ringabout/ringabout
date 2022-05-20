@@ -7,7 +7,7 @@
 
 #### Buy me a coffee
 
-I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://www.patreon.com/flywind) so I can continue my journey with Nim as long as possible.
+I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible.
 
 ![flywind's GitHub stats](https://github-readme-stats.vercel.app/api?username=xflywind&show_icons=true&include_all_commits=true&theme=radical)
 
