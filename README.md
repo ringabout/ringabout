@@ -11,6 +11,10 @@ Contact me => ringabout@protonmail.com
 
 I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible.
 
+#### Why here
+
+> The harder thing to do and the right thing to do are usually the same thing. Nothing that has meaning is easy. Easy doesn't enter into grown-up life.
+
 ![flywind's GitHub stats](https://github-readme-stats.vercel.app/api?username=xflywind&show_icons=true&include_all_commits=true&theme=radical)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=xflywind.xflywind" height="23">
