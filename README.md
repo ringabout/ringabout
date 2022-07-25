@@ -15,6 +15,6 @@ I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contribu
 
 > The harder thing to do and the right thing to do are usually the same thing. Nothing that has meaning is easy. Easy doesn't enter into grown-up life.
 
-![flywind's GitHub stats](https://github-readme-stats.vercel.app/api?username=xflywind&show_icons=true&include_all_commits=true&theme=radical)
+![ringabout's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringabout&show_icons=true&include_all_commits=true&theme=radical)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=xflywind.xflywind" height="23">
+<img src="https://visitor-badge.glitch.me/badge?page_id=ringabout.ringabout" height="23">
