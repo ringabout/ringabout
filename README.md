@@ -13,7 +13,7 @@ I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contribu
 
 #### Why here
 
-> The harder thing to do and the right thing to do are usually the same thing. Nothing that has meaning is easy. Easy doesn't enter into grown-up life.
+> Whenever you feel like criticizing anyone, just remember that all of the people in the world haven't had the advantages that you've had.
 
 ![ringabout's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringabout&show_icons=true&include_all_commits=true&theme=radical)
 
