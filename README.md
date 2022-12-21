@@ -5,7 +5,7 @@
 
 [My projects](https://github.com/search?o=desc&q=language%3Anim+user%3Axflywind+user%3Aplanety&s=updated&type=Repositories)
 
-Contact me at ringabout@protonmail.com
+Contact me at nim-lang.h9n8f@simplelogin.com
 
 #### Buy me a coffee
 
