@@ -16,5 +16,3 @@ I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contribu
 > Whenever you feel like criticizing anyone, just remember that all of the people in the world haven't had the advantages that you've had.
 
 ![ringabout's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringabout&show_icons=true&include_all_commits=true&theme=radical)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=ringabout.ringabout" height="23">
