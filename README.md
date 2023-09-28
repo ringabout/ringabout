@@ -3,9 +3,9 @@
 
 #### Hire me
 
-[My projects](https://github.com/search?o=desc&q=language%3Anim+user%3Axflywind+user%3Aplanety&s=updated&type=Repositories)
+[My projects](https://github.com/search?o=desc&q=language%3Anim+user%3Aringabout+user%3Aplanety&s=updated&type=repositories)
 
-Contact me at ringabout@protonmail.com
+I'm quick to learn and passionate in open source projects. Wanna hire me? Contact me at ringabout@protonmail.com!
 
 #### Buy me a coffee
 
