@@ -2,7 +2,7 @@
 
 #### Buy me a coffee
 
-I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible. 
+I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please consider [buying me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible!
 
 
 #### Hire me
