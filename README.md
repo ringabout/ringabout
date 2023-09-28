@@ -1,5 +1,9 @@
 ### Let's start our journey!
 
+#### Buy me a coffee
+
+I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible. 
+
 
 #### Hire me
 
@@ -7,9 +11,6 @@
 
 I'm quick to learn and passionate in open source projects. Wanna hire me? Contact me at ringabout@protonmail.com!
 
-#### Buy me a coffee
-
-I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible.
 
 ![ringabout's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringabout&show_icons=true&include_all_commits=true&theme=radical)
 
