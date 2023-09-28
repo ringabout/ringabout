@@ -12,3 +12,5 @@ Contact me at ringabout@protonmail.com
 I [contribute to Nim constantly](https://github.com/nim-lang/Nim/graphs/contributors), please [buy me a coffee](https://github.com/sponsors/planety) so I can continue my journey with Nim as long as possible.
 
 ![ringabout's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringabout&show_icons=true&include_all_commits=true&theme=radical)
+
+> It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, are a different opinion, it is because they only know their own side of the question.
