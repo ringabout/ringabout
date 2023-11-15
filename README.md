@@ -14,4 +14,4 @@ I'm quick to learn and passionate in open source projects. Wanna hire me? Contac
 
 ![ringabout's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringabout&show_icons=true&include_all_commits=true&theme=radical)
 
-> It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, are a different opinion, it is because they only know their own side of the question.
+> It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. And if the fool, or the pig, are a different opinion, it is because they only know their own side of the question. The other party to the comparison knows both sides.
